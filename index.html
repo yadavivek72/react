@@ -9,12 +9,15 @@
   <body>
     <h1>Hello Top of Root</h1>
     <div id="root">
+      <!-- Hello World with Plane HTML -->
+      <!-- <h1>Hello World!!</h1> -->
+
       <!-- This will be replaced by React root.render() content -->
       <h1>Vivek is here</h1>
     </div>
     <h1>Hello Bottom of Root</h1>
-    <!-- <h1>Hello World!!</h1> -->
 
+    <!-- Hello World! using javascript -->
     <!-- <script>
       const heading = document.createElement("h1");
       heading.innerHTML = "Hello World from Javascript";
@@ -31,6 +34,23 @@
       crossorigin
       src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
     ></script>
+
+    <!-- Hello from React -->
+
+    <!-- <script>
+      const heading = React.createElement(
+        "h1",
+        { id: "heading" },
+        "Hello world from React!"
+      );
+
+      console.log(heading); // this is not heading tag this is react element which is javascript object
+
+      const root = ReactDOM.createRoot(document.getElementById("root"));
+
+      root.render(heading); // It is the responsibility of render method to interpret react element as browswer understandble html tag and put it inside DOM
+    </script> -->
+
     <script src="./App.js"></script>
   </body>
 </html>

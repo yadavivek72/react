@@ -1,0 +1,27 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is react by vivek yadav",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavivek72/react.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Vivek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavivek72/react/issues"
+  },
+  "homepage": "https://github.com/yadavivek72/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

@@ -13,6 +13,8 @@
  * React Element(object) => HTML(Browser Understands)
  */
 // Writing react this way is not a easy task that's why we need JSX
+
+// If we have multiple child for an React element or siblings than we can use Array and enclosed the child element in [] brackets
 const parent = React.createElement("div", { id: "parent" }, [
   React.createElement("div", { id: "child" }, [
     // To create sibling we can pass array of element
@@ -26,13 +28,13 @@ const parent = React.createElement("div", { id: "parent" }, [
   ]),
 ]);
 
-const heading = React.createElement(
-  "h1",
-  { id: "heading" },
-  "Hello World from React!"
-);
-// This will print a object which is react element
-console.log("heading", heading);
+// const heading = React.createElement(
+//   "h1",
+//   { id: "heading" },
+//   "Hello World from React!"
+// );
+// // This will print a object which is react element
+// console.log("heading", heading);
 console.log("parent", parent);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // The job render function is to take this heading object which is react element and covert into browser understandable html h1 element and put it inside root
