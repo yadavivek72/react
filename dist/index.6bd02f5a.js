@@ -11,23 +11,26 @@
  * </div>
  *
  * React Element(object) => HTML(Browser Understands)
- */
-// Writing react this way is not a easy task that's why we need JSX
-
+ */ // Writing react this way is not a easy task that's why we need JSX
 // If we have multiple child for an React element or siblings than we can use Array and enclosed the child element in [] brackets
-const parent = React.createElement("div", { id: "parent" }, [
-  React.createElement("div", { id: "child" }, [
-    // To create sibling we can pass array of element
-    React.createElement("h1", {}, "I am an h1 tag"),
-    React.createElement("h2", {}, "I am an h2 tag"),
-  ]),
-  React.createElement("div", { id: "child2" }, [
-    // To create sibling we can pass array of element
-    React.createElement("h1", {}, "I am an h1 tag"),
-    React.createElement("h2", {}, "I am an h2 tag"),
-  ]),
+const parent = React.createElement("div", {
+    id: "parent"
+}, [
+    React.createElement("div", {
+        id: "child"
+    }, [
+        // To create sibling we can pass array of element
+        React.createElement("h1", {}, "I am an h1 tag"),
+        React.createElement("h2", {}, "I am an h2 tag")
+    ]),
+    React.createElement("div", {
+        id: "child2"
+    }, [
+        // To create sibling we can pass array of element
+        React.createElement("h1", {}, "I am an h1 tag"),
+        React.createElement("h2", {}, "I am an h2 tag")
+    ])
 ]);
-
 // const heading = React.createElement(
 //   "h1",
 //   { id: "heading" },
@@ -39,3 +42,5 @@ console.log("parent", parent);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // The job render function is to take this heading object which is react element and covert into browser understandable html h1 element and put it inside root
 root.render(parent);
+
+//# sourceMappingURL=index.6bd02f5a.js.map
