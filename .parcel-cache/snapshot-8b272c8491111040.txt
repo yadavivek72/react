@@ -1,7 +1,7 @@
-4493
+4495
 99C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs133707262581635274 0
 57C:\Users\yadav\Desktop\Namastey-React\node_modules\base-x133707262575114126 1
-50C:\Users\yadav\Desktop\Namastey-React\package.json133708068467447483 0
+50C:\Users\yadav\Desktop\Namastey-React\package.json133708606247908884 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\lightningcss\node\index.js.flow133707262576283227 0
 75C:\Users\yadav\Desktop\Namastey-React\node_modules\nth-check\lib\parse.d.ts133707262579585745 0
 85C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\optimizer-css\package.json133707262575522322 0
@@ -12,7 +12,7 @@
 78C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\transformer-raw\lib133707262574137532 1
 63C:\Users\yadav\Desktop\Namastey-React\node_modules\svgo\LICENSE133707262573436606 0
 102C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\getboundingclientrect.js133707262587560195 0
-44C:\Users\yadav\Desktop\Namastey-React\App.js133708073903044084 0
+44C:\Users\yadav\Desktop\Namastey-React\App.js133708648696721196 0
 90C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\gyroscope.js133707262587901608 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\regions\KR.js133707262589013741 0
 97C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\font-size-adjust.js133707262587296573 0
@@ -31,13 +31,13 @@
 77C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\runtime-js\LICENSE133707262574406047 0
 66C:\Users\yadav\Desktop\Namastey-React\node_modules\source-map\dist133707262579597880 1
 79C:\Users\yadav\Desktop\Namastey-React\node_modules\postcss-value-parser\LICENSE133707262573466542 0
-48C:\Users\yadav\Desktop\Namastey-React\.gitignore133707196029862856 0
+48C:\Users\yadav\Desktop\Namastey-React\.gitignore133708120270313206 0
 74C:\Users\yadav\Desktop\Namastey-React\node_modules\js-yaml\lib\type\str.js133707262579912613 0
 57C:\Users\yadav\Desktop\Namastey-React\node_modules\braces133707262577316313 1
 68C:\Users\yadav\Desktop\Namastey-React\node_modules\svgo\lib\style.js133707262581917193 0
 87C:\Users\yadav\Desktop\Namastey-React\node_modules\csso\lib\replace\atrule\keyframes.js133707262580450289 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\lmdb\dependencies\lz4\lib\lz4.c133707262580206888 0
-42C:\Users\yadav\Desktop\Namastey-React\dist133708074076409130 1
+42C:\Users\yadav\Desktop\Namastey-React\dist133708606254254104 1
 79C:\Users\yadav\Desktop\Namastey-React\node_modules\css-select\lib\sort.d.ts.map133707262579394103 0
 81C:\Users\yadav\Desktop\Namastey-React\node_modules\source-map\lib\mapping-list.js133707262577181068 0
 71C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\core\LICENSE133707262578575249 0
@@ -46,7 +46,7 @@
 85C:\Users\yadav\Desktop\Namastey-React\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133707262580748588 0
 47C:\Users\yadav\Desktop\Namastey-React\index.css133707206399340797 0
 86C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\webxr.js133707262593819624 0
-48C:\Users\yadav\Desktop\Namastey-React\index.html133708074175884749 0
+48C:\Users\yadav\Desktop\Namastey-React\index.html133708076476985958 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\regions\MG.js133707262589592396 0
 96C:\Users\yadav\Desktop\Namastey-React\node_modules\dom-serializer\node_modules\entities\lib\maps133707262577472817 1
 59C:\Users\yadav\Desktop\Namastey-React\node_modules\css-tree133707262583659963 1
@@ -70,7 +70,7 @@
 87C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\transformer-svg\package.json133707262577278224 0
 101C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\css-text-orientation.js133707262585694549 0
 58C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel133708068467167481 1
-47C:\Users\yadav\Desktop\Namastey-React\README.md133631477689601062 0
+47C:\Users\yadav\Desktop\Namastey-React\README.md133708119928332134 0
 118C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133707262585356001 0
 73C:\Users\yadav\Desktop\Namastey-React\node_modules\domelementtype\LICENSE133707262573581382 0
 58C:\Users\yadav\Desktop\Namastey-React\node_modules\is-json133707262576269154 1
@@ -1171,7 +1171,7 @@
 88C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\imports.js133707262588313109 0
 89C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\src\_array_with_holes.mjs133707262586977635 0
 84C:\Users\yadav\Desktop\Namastey-React\node_modules\source-map\dist\source-map.min.js133707262579549407 0
-65C:\Users\yadav\Desktop\Namastey-React\dist\index.9e4c6fd2.css.map133708074076398098 0
+65C:\Users\yadav\Desktop\Namastey-React\dist\index.9e4c6fd2.css.map133708606253465152 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\regions\BI.js133707262581767799 0
 65C:\Users\yadav\Desktop\Namastey-React\node_modules\semver\classes133707262580607066 1
 87C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\features\webnfc.js133707262593670759 0
@@ -2543,6 +2543,7 @@
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\caniuse-lite\data\regions\NL.js133707262590313820 0
 92C:\Users\yadav\Desktop\Namastey-React\node_modules\csso\lib\restructure\8-restructRuleset.js133707262577059649 0
 85C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\utils\src\shared-buffer.js133707262581877600 0
+60C:\Users\yadav\Desktop\Namastey-React\dist\index.7826abd7.js133708606254165409 0
 80C:\Users\yadav\Desktop\Namastey-React\node_modules\csso\lib\restructure\index.js133707262580304730 0
 89C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\utils\src\isDirectoryInside.js133707262581193988 0
 79C:\Users\yadav\Desktop\Namastey-React\node_modules\csso\lib\restructure\prepare133707262580772475 1
@@ -3657,7 +3658,7 @@
 113C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133707262585579626 0
 91C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\src\_async_to_generator.mjs133707262587035768 0
 118C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json133707262585528718 0
-53C:\Users\yadav\Desktop\Namastey-React\dist\index.html133708074076274714 0
+53C:\Users\yadav\Desktop\Namastey-React\dist\index.html133708606254140262 0
 104C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\_\_class_private_method_set\package.json133707262585516491 0
 104C:\Users\yadav\Desktop\Namastey-React\node_modules\@swc\helpers\_\_class_private_method_get\package.json133707262585478611 0
 89C:\Users\yadav\Desktop\Namastey-React\node_modules\@parcel\transformer-babel\src\types.js133707262578700895 0
@@ -4491,4 +4492,5 @@
 64C:\Users\yadav\Desktop\Namastey-React\node_modules\.bin\svgo.cmd133707262594633779 0
 82C:\Users\yadav\Desktop\Namastey-React\node_modules\.bin\update-browserslist-db.ps1133707262594647148 0
 69C:\Users\yadav\Desktop\Namastey-React\dist\Namastey-React.3464ddca.js133708074076043449 0
-61C:\Users\yadav\Desktop\Namastey-React\dist\index.9e4c6fd2.css133708074076366431 0
+61C:\Users\yadav\Desktop\Namastey-React\dist\index.9e4c6fd2.css133708606253445073 0
+64C:\Users\yadav\Desktop\Namastey-React\dist\index.7826abd7.js.map133708606254242637 0
