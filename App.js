@@ -1,43 +1,21 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-/**
- * <div id='parent'>
- *      <div id='child'>
- *          <h1>I am an h1 tag</h1>
- *          <h2>I am an h2 tag</h2>
- *      </div>
- *   <div id='child2'>
- *          <h1>I am an h1 tag</h1>
- *          <h2>I am an h2 tag</h2>
- *      </div>
- * </div>
- *
- * React Element(object) => HTML(Browser Understands)
- */
-// Writing react this way is not a easy task that's why we need JSX
 
-// If we have multiple child for an React element or siblings than we can use Array and enclosed the child element in [] brackets
-const parent = React.createElement("div", { id: "parent" }, [
-  React.createElement("div", { id: "child" }, [
-    // To create sibling we can pass array of element
-    React.createElement("h1", {}, "This is Namaste React"),
-    React.createElement("h2", {}, "I am an h2 tag"),
-  ]),
-  React.createElement("div", { id: "child2" }, [
-    // To create sibling we can pass array of element
-    React.createElement("h1", {}, "I am an h1 tag"),
-    React.createElement("h2", {}, "I am an h2 tag"),
-  ]),
-]);
+const heading = React.createElement(
+  "h1",
+  { id: "heading" },
+  "Hello World from React!"
+);
 
-// const heading = React.createElement(
-//   "h1",
-//   { id: "heading" },
-//   "Hello World from React!"
-// );
-// // This will print a object which is react element
-// console.log("heading", heading);
-console.log("parent", parent);
+// jSX - HTML- like or XML - like syntax
+// JSX (transpiled or converted in to JS engine understandle code before it reaches the JS engine)
+// even your react.render doesn't understand jsx
+// parcel transpiled jsx to browser understandble code using babel
+
+const jsxHeading = <h1>Namaste React using JSX</h1>;
+
+console.log("jsx", jsxHeading);
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 // The job render function is to take this heading object which is react element and covert into browser understandable html h1 element and put it inside root
-root.render(parent);
+root.render(heading);
